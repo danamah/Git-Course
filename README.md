@@ -3,4 +3,5 @@ For Elzero Web School Git Course
 
 ## Project_ Notes 
 
-this is note
+This Is Note
+Second Edit
